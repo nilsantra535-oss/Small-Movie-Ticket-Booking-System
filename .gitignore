@@ -1,0 +1,33 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# SQLite Database files (স্বয়ংক্রিয়ভাবে তৈরি হওয়া ডাটাবেস ফাইল)
+*.db
+*.db-journal
+
+# Java Executables
+*.jar
+*.war
+*.ear
+
+# Package Locks & Temp Files
+.DS_Store
+Thumbs.db
+*.tmp
+
+# VS Code specific files & folders
+.vscode/
+*.code-workspace
+
+# Eclipse / IntelliJ IDEA project files (যদি ব্যবহার করেন)
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+*.iws
+out/
+bin/
