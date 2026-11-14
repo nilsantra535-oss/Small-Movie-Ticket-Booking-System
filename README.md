@@ -22,5 +22,3 @@ A Desktop-based Movie Ticket Booking Application built using **Java Swing** for 
 - **JDBC Driver:** `sqlite-jdbc-0.00.0.0.jar` (or compatible version)
 
 
----
-
